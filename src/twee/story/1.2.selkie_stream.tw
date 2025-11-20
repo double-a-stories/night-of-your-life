@@ -17,7 +17,7 @@ The stream window says "STARTING SOON".
 <%= T.streamChat([
     ["SelkieSwallows", "The fun will be starting soon! Stay tuned, darlings!"],
     ["SelkieSwallows", "Type /rules for rules"],
-    ["SelkieSwallows", "Goal: Crush em! ($0/1300)"],
+    ["SelkieSwallows", "Goal: Churn em! ($0/1300)"],
     ["excelenciaRodentia", "hi all!"],
     ["grumbleGeek", "first!"],
     ["riskySecret", "yesss selkie stream selkie stream"],
@@ -54,7 +54,7 @@ The stream window says "STARTING SOON".
     ["riskySecret", "sup DP"],
     ["carneusCalcified", "Ah. The rabbit."],
     ["ginnyTonic", "hii aster"],
-    ["DiamondiqueDisciple", "Welcome back DP!"],
+    ["pleadingPeristalsis", "Welcome back DP!"],
     ["riskySecret", "surprised ur still kicking lol"],
     ["grumbleGeek", "fr we gotta get DP on a show"],
     ["riskySecret", "i'll donate $300 if selkie eats dp ::w::"],
@@ -98,11 +98,11 @@ The stream window says "STARTING SOON".
 :: Show chat 4. [stream]
 
 <%= T.streamChat([
+    s.asterSays,
     ["grumbleGeek", "YSE"],
     ["grumbleGeek", "YES"],
     ["DiamondiqueDisciple", "Everyone ready?"],
     ["jamesStryker", "maybe !"],
-    s.asterSays,
     ["excelenciaRodentia", "YES"],
     ["stummyLiker", "💯💯💯"],
     ["adiposeAccumulator", "selkie streammm!"],
@@ -195,7 +195,7 @@ She lifts a polished white cervine skull off her desk, and brandishes it to the 
 <span.q-selkie>Last week, she made the wonderful decision to join me on stream, so she could fulfill her lifelong dream of being hippo pudge. Say goodbye, everyone!</span>
 
 <%= T.streamChat([
-    ["SelkieSwallows", "Goal: Crush em! ($20/1300)"],
+    ["SelkieSwallows", "Goal: Churn em! ($20/1300)"],
     ["riskySecret", "oh nooo, scrumply! }:)"],
     ["swifterSnackrifice", "SKULL"],
     ["skippableFeline", "owo!"],
@@ -207,7 +207,7 @@ She lifts a polished white cervine skull off her desk, and brandishes it to the 
     ["excelenciaRodentia", "btw is CM in chat?"],
     ["carneusCalcified", "Yawn."],
     ["ginnyTonic", "hot"],
-    ["disasterPiece", "ER u mean caliMath? nah haven't seen him"],
+    ["disasterPiece", "excel u mean caliMath? nah haven't seen him"],
     ["skippableFeline", "girl skullzzzzz :3"],
 ]) %>
 
@@ -222,28 +222,27 @@ She looks affectionately at the skull, then at her exposed belly, which she jost
 <span.q-selkie>Yes, Lucy was a dedicated student, a loving girlfriend, and a platinum subscriber to the channel. And now, she's in a better place as my soft, jiggly fat.</span>
 
 <%= T.streamChat([
-    ["swifterSnackrifice", "poor little lucy!"],
-    ["skippableFeline", "DEAD!"],
-    ["excelenciaRodentia", "lucyyyy"],
     s.asterSays,
+    ["swifterSnackrifice", "poor little lucy!"],
+    ["skippableFeline", "dead!"],
+    ["excelenciaRodentia", "lucyyyy"],
     ["riskySecret", ":33"],
     ["awfulDenise", "lucy was such a kind soul and a great rp partner"],
     ["excelenciaRodentia", "byeeee x3"],
-    ["awfulDenise", "seriously gonna miss her."],
-    ["swifterSnackrifice", "BYEEEE LUCY"],
-    ["awfulDenise", "at least she went to a good home"],
-    ["awfulDenise", "bye hon~"],
     ["skippableFeline", "i met her at deceptacon, and had so much fun!"],
     ["skippableFeline", "bye lucy!"],
     ["bellicoseDinosaur", "poor SD ;w;"],
     ["bellicoseDinosaur", "i didn't really know her but i saw her in chat a lot"],
+    ["swifterSnackrifice", "BYEEEE LUCY"],
     ["bellicoseDinosaur", "she seemed cool"],
     ["excelenciaRodentia", "didn't RS buy it?"],
     ["pleadingPeristalsis", "bye lucy!"],
     ["stummyLiker", "fvck thqt's so hot"],
     ["ginnyTonic", "me next!!"],
     ["adiposeAccumulator", "bye bye mousie!! ur so hot selkie"],
-    ["DiamondiqueDisciple", "Wow, her skull is even cuter than I thought."],
+    ["carneusCalcified", "Doe slut definitely had it coming."],
+    ["DiamondiqueDisciple", "Lose the misogyny, CC"],
+    ["carneusCalcified", "Ugh."],
     ["jamesStryker", "wait is she like dead for real?"],
 ]) %>
 
@@ -256,10 +255,10 @@ Selkie places the skull inside a small cardboard box.
 <span.q-selkie>As the first $199 donor from last stream, this beautiful skull of hers will be once again adding to the private collection of riskySecret! Thanks risky! It's viewers like you who make this show possible.</span>
 
 <%= T.streamChat([
-    ["carneusCalcified", "Doe slut definitely had it coming."],
-    ["DiamondiqueDisciple", "Lose the misogyny, CC"],
-    ["carneusCalcified", "Fine."],
     ["riskySecret", ":33"],
+    ["awfulDenise", "seriously gonna miss her."],
+    ["awfulDenise", "at least she went to a good home"],
+    ["awfulDenise", "bye hon~"],
     ["awfulDenise", "gonna miss the little thing"],
     ["riskySecret", "i got myself a nice bathroom decoration!"],
     ["ginnyTonic", "shoulda been me"],
@@ -287,7 +286,7 @@ Selkie places the skull inside a small cardboard box.
 
 
 <%= T.streamChat([
-    ["SelkieSwallows", "Goal: Crush em! ($70/1300)"],
+    ["SelkieSwallows", "Goal: Churn em! ($70/1300)"],
     ["ginnyTonic", "ashdkfahsdfkjh"],
     ["ginnyTonic", "NOO WTF THAT'S MY FULL NAME hfalkdsfhjasdhf HOW'D YoU EVEN"],
     ["skippableFeline", "awww hehe"],
@@ -307,9 +306,9 @@ She happily massages her tummy. It lets out a loud gurgle into the desk mic posi
 :: Ginny donates 2. [stream]
 
 <%= T.streamChat([
+    s.asterSays,
     ["awfulDenise", "hungry hungry hippo!"],
     ["grumbleGeek", "love the tummy mic!"],
-    s.asterSays,
     ["stummyLiker", "HOT!"],
     ["bellicoseDinosaur", ":S"],
 ]) %>
@@ -340,11 +339,11 @@ A border collie with black and white fur inches into frame and sits on the edge 
 
 <%= T.streamChat([
 ["DiamondiqueDisciple", "Welcome to the stream, cutie! Let's show him a warm welcome!"],
+s.asterSays,
 ["bellicoseDinosaur", "oh! CM!"],
 ["swifterSnackrifice", "hiii matty!"],
 ["excelenciaRodentia", "h"],
 ["excelenciaRodentia", "holy sh!t?"],
-s.asterSays,
 ["bellicoseDinosaur", "matty!!"],
 ["adiposeAccumulator", "who's matty? that's hippofood >w<"],
 ["awfulDenise", "oooh, what a cute puppy!"],
@@ -371,7 +370,7 @@ Selkie squares the camera to the bed, pushes her gaming chair out the way, and p
 He shuts his eyes and stammers out, <span.q-matty>Hi Selkie, hi chat! I'm.... ohgods... I'm so excited to be hippo food! I hope you all enjoy watching tonight!</span>
 
 <%= T.streamChat([
-["SelkieSwallows", "Goal: Crush em! ($73/1300)"],
+["SelkieSwallows", "Goal: Churn em! ($73/1300)"],
 ["carneusCalcified", "Heh. Poor thing looks pretty nervous."],
 ["ginnyTonic", "MATTY! hii!! i'm so excited to watch you die tonight!"],
 ["bellicoseDinosaur", "X_X hottt"],
@@ -499,7 +498,7 @@ At her command, he takes a deep whiff, which fully blanks his brain. His snout s
     ["excelenciaRodentia", "that my best friend is becoming hippo pudge forever"],
     ["ginnyTonic", ":c"],
     ["DiamondiqueDisciple", "I hear you're upset ER, but try to keep drama to a minimum."],
-    ["awfulDenise", "no use moaning, ER, he already made his choice"],
+    ["awfulDenise", "no use moaning, excel, he already made his choice"],
     ["awfulDenise", "and if we hit the $1300 dono goal all be be a thing of the passst S:3"],
     ["carneusCalcified", "Just one more snack for the void, heh."],
     ["awfulDenise", "jusst try to enjoy the show"],
@@ -557,7 +556,7 @@ At her command, he takes a deep whiff, which fully blanks his brain. His snout s
     ["DiamondiqueDisciple", "If so he'll be the first of Selkie's prey to finish in a while!"],
     ["awfulDenise", "well he did get an extra ten minutess"],
     ["pleadingPeristalsis", "you can do it pup!! hehe"],
-    ["riskySecret", "cmon ER cheer on your friend!"],
+    ["riskySecret", "cmon excel cheer on your friend!"],
     ["riskySecret", "dont u at least want him to cum?"],
     ["excelenciaRodentia", "..."],
 ]) %>
@@ -665,7 +664,7 @@ Matty curls up into a ball, clutching the screen to his chest. Selkie taps her f
 <span.q-matty>I'm sorry, I think... I'm having a panic attack. C-can't... breathe...</span>
 
 <%= T.streamChat([
-["SelkieSwallows", "Goal: Crush em! ($456/1300)"],
+["SelkieSwallows", "Goal: Churn em! ($456/1300)"],
 ["carneusCalcified", "Heh. Love when prey get scared."],
 ["carneusCalcified", "Really riles me up."],
 ["riskySecret", "agreed ^^w^^"],
@@ -765,7 +764,7 @@ It kicks in response, which she just seems to find even cuter.
 <%= T.donation("awfulDenise", "199", "souvenir") %>
 
 <%= T.streamChat([
-    ["SelkieSwallows", "Goal: Crush em! ($932/1300)"],
+    ["SelkieSwallows", "Goal: Churn em! ($932/1300)"],
     ["excelenciaRodentia", "YES"],
     ["awfulDenise", "aw :S"],
     ["riskySecret", "dw, you'll get the next one."],
